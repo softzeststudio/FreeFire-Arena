@@ -17,7 +17,7 @@ Welcome to FreeFire Arena, the ultimate automated tournament app for Free Fire g
 ## Getting Started 🛠️
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/FreeFireArena.git
+   git clone https://github.com/softzeststudio/FreeFireArena.git
    ```
    ```bash
    cd FreeFireArena
